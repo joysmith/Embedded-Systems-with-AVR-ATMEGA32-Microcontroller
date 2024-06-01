@@ -10,7 +10,12 @@
 
 ### 53. Concept of ADC<a id="53"></a>
 
+- [Concept of ADC notes](<resources/ADC Programming.one>)
+- try microphone working in branch education video
+
 ### 54. ADC Registers in ATMEGA32 MCU<a id="54"></a>
+
+- [ADC Registers in ATMEGA32 notes](<resources/ADC Programming.one>)
 
 ### 55. Testing Single Channel ADC in ATMEGA32 MCU<a id="55"></a>
 
