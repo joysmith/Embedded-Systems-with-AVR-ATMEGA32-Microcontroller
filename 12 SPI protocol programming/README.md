@@ -15,15 +15,27 @@
 
 ### 90. An Overview of Embedded System Communication Protocols<a id='90'></a>
 
+- [Embedded system protocol notes](<resources/EMBEDDED SYSTEM COMMUNICATION PROTOCOLS.docx>)
+
 ### 91. Understanding SPI Protocol - Part 1<a id='91'></a>
+
+- [SPI PROTOCOL notes](<resources/EMBEDDED SYSTEM COMMUNICATION PROTOCOLS.docx>)
 
 ### 92. Understanding SPI Protocol - Part 2<a id='92'></a>
 
+- [DETAILED WORKING STEPS OF SPI PROTOCOL notes](<resources/EMBEDDED SYSTEM COMMUNICATION PROTOCOLS.docx>)
+
 ### 93. SPI Protocol Registers in ATMEGA32 MCU<a id='93'></a>
+
+- [SPI Protocol registers in ATmega32 micro-controller note](<resources/SPI Protocol.one>)
 
 ### 94. Interfacing NOR Flash Memory with ATMEGA32 MCU - Part 1<a id='94'></a>
 
+- [A BRIEF OVERVIEW OF FLASH MEMORY notes, pg 1-4](resources/NOR_FLASH_INTERFACE.docx)
+
 ### 95. Interfacing NOR Flash Memory with ATMEGA32 MCU - Part 2<a id='95'></a>
+
+- [STATUS REGISTERS IN W25Q64FWSIG NOR FLASH MEMORY note, pg 20-26](resources/NOR_FLASH_INTERFACE.docx)
 
 ### 96. Interfacing NOR Flash Memory with ATMEGA32 MCU - Part 3<a id='96'></a>
 

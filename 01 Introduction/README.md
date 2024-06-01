@@ -29,6 +29,8 @@
 
 ### 8. Parts Equipment and Software Needed<a id="8"></a>
 
+- [Download AVR studio](https://www.microchip.com/en-us/tools-resources/archives/avr-sam-mcus)
+
 ### 9. Working with ATMEL Studio 7<a id="9"></a>
 
 ### 10. Setup and Downloading Test Program into the Controller<a id='10'></a>

@@ -11,9 +11,15 @@
 
 ### 45. Concept of Serial Communication<a id="45"></a>
 
+- [Concept of serial communication notes](<resources/UART Programming.one>)
+
 ### 46. Details of Asynchronous Serial Communication<a id="46"></a>
 
+- [Asynchronous Serial Communication notes](<resources/UART Programming.one>)
+
 ### 47. UART Registers in ATMEGA32 MCU<a id="47"></a>
+
+- [UART Registers in ATMEGA32n notes](<resources/UART Programming.one>)
 
 ### 48. Circuit Diagram and RS232 Interface<a id="48"></a>
 

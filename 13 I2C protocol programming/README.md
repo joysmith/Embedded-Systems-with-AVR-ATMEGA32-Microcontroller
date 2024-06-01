@@ -19,15 +19,27 @@
 
 ### 102. Understanding I2C Protocol - Part 1<a id='102'></a>
 
+- [I2C Introduction note](<resources/I2C protocol.one>)
+
 ### 103. Understanding I2C Protocol - Part 2<a id='103'></a>
+
+- [Open drain configuration of I2C pins note](<resources/I2C protocol.one>)
 
 ### 104. Understanding I2C Protocol - Part 3<a id='104'></a>
 
+- [Effect of I2C bus length on communication note](<resources/I2C protocol.one>)
+
 ### 105. Understanding I2C Protocol - Part 4<a id='105'></a>
+
+- [Operation and frame format of I2C protocol note](<resources/I2C protocol.one>)
 
 ### 106. Understanding I2C Protocol - Part 5<a id='106'></a>
 
+- [Clock synchronization in I2C, clock stretching in I2C, Bus arbitration in I2C,Reserved address in I2C note](<resources/I2C protocol.one>)
+
 ### 107. ATMEGA32 Registers for I2C Protocol<a id='107'></a>
+
+- [Registers for I2C in Atmega32 note](<resources/I2C protocol.one>)
 
 ### 108. Interfacing External EEPROM with ATMEGA32 MCU - Part 1<a id='108'></a>
 
